@@ -1,0 +1,21 @@
+# Introduction
+This repo contains source code for mobile app using Expo's React Native
+The app shows Indonesian shops in San Francisco
+
+## Features
+- Show pin of location
+
+## Next Features
+- Display more detail on marker click
+- Get use current location
+
+## Tech
+- Expo
+- React Native
+- Google Maps
+- Yelp API
+
+## Configuration
+Credentials are stored in `config/env.js`
+Sample config can be found on `config/env.sample.js`
+
